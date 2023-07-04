@@ -1,0 +1,26 @@
+body 
+{
+    background: lightblue;
+}
+.player_div
+{
+    background-color:red;
+    color:rgb(255, 255, 255);
+} 
+.heading_of_heading{
+    background: orange;
+    color: darkblue;
+}
+#button
+{
+    background-color: rgb(63, 222, 63);
+    color: red;
+
+}
+
+
+
+
+
+
+
